@@ -1,6 +1,6 @@
 using System;
 using System.Threading.Tasks;
-using DatingApp.API.Data;
+using DatingAppAPI.Data;
 using DatingAppAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
